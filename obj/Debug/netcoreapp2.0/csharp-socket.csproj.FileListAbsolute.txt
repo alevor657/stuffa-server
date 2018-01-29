@@ -1,0 +1,10 @@
+/home/yooo/code/csharp-socket/bin/Debug/netcoreapp2.0/csharp-socket.deps.json
+/home/yooo/code/csharp-socket/bin/Debug/netcoreapp2.0/csharp-socket.runtimeconfig.json
+/home/yooo/code/csharp-socket/bin/Debug/netcoreapp2.0/csharp-socket.runtimeconfig.dev.json
+/home/yooo/code/csharp-socket/bin/Debug/netcoreapp2.0/csharp-socket.dll
+/home/yooo/code/csharp-socket/bin/Debug/netcoreapp2.0/csharp-socket.pdb
+/home/yooo/code/csharp-socket/obj/Debug/netcoreapp2.0/csharp-socket.csproj.CoreCompileInputs.cache
+/home/yooo/code/csharp-socket/obj/Debug/netcoreapp2.0/csharp-socket.AssemblyInfoInputs.cache
+/home/yooo/code/csharp-socket/obj/Debug/netcoreapp2.0/csharp-socket.AssemblyInfo.cs
+/home/yooo/code/csharp-socket/obj/Debug/netcoreapp2.0/csharp-socket.dll
+/home/yooo/code/csharp-socket/obj/Debug/netcoreapp2.0/csharp-socket.pdb
