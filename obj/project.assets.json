@@ -691,11 +691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/yooo/code/csharp-socket/csharp-socket.csproj",
+      "projectUniqueName": "/home/yooo/code/stuffa-server/csharp-socket.csproj",
       "projectName": "csharp-socket",
-      "projectPath": "/home/yooo/code/csharp-socket/csharp-socket.csproj",
+      "projectPath": "/home/yooo/code/stuffa-server/csharp-socket.csproj",
       "packagesPath": "/home/yooo/.nuget/packages/",
-      "outputPath": "/home/yooo/code/csharp-socket/obj/",
+      "outputPath": "/home/yooo/code/stuffa-server/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"

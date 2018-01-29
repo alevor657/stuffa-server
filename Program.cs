@@ -4,7 +4,7 @@ using WebSocketSharp.Server;
 
 namespace SocketServer
 {
-    public class Server : WebSocketBehavior
+    public class Handler : WebSocketBehavior
     {
         protected override void OnMessage(MessageEventArgs e)
         {
@@ -19,10 +19,10 @@ namespace SocketServer
     {
         public static void Main(string[] args)
         {
-            var wssv = new WebSocketServer("ws://localhost");
-            wssv.AddWebSocketService<Server>("/Server");
+            var wssv = new WebSocketServer("ws://localhost:1337");
+            wssv.AddWebSocketService<Handler>("/Server");
             wssv.Start();
-            Console.WriteLine("Listening...");
+            Console.WriteLine($"Listening on {wssv.Address}:{wssv.Port}");
             Console.ReadKey(true);
             wssv.Stop();
         }
