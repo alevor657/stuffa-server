@@ -31,13 +31,14 @@ namespace SocketServer
     {
         public static void Main(string[] args)
         {
-            var wssv = new WebSocketServer(8080);
+            var wssv = new WebSocketServer(1340);
             wssv.AddWebSocketService<Handler>("/remote");
             wssv.Start();
             Console.WriteLine($"Listening on {wssv.Address}:{wssv.Port}");
             foreach (var path in wssv.WebSocketServices.Paths)
                 Console.WriteLine("- {0}", path);
-            Console.ReadKey(true);
+            // Console.ReadKey(true);
+            Console.Read();
             wssv.Stop();
         }
     }

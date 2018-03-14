@@ -18,3 +18,13 @@
 /home/yooo/code/stuffa-server/obj/Debug/netcoreapp2.0/csharp-socket.AssemblyInfo.cs
 /home/yooo/code/stuffa-server/obj/Debug/netcoreapp2.0/csharp-socket.dll
 /home/yooo/code/stuffa-server/obj/Debug/netcoreapp2.0/csharp-socket.pdb
+D:\cygwin64\home\user\code\stuffa-server\bin\Debug\netcoreapp2.0\csharp-socket.deps.json
+D:\cygwin64\home\user\code\stuffa-server\bin\Debug\netcoreapp2.0\csharp-socket.runtimeconfig.json
+D:\cygwin64\home\user\code\stuffa-server\bin\Debug\netcoreapp2.0\csharp-socket.runtimeconfig.dev.json
+D:\cygwin64\home\user\code\stuffa-server\bin\Debug\netcoreapp2.0\csharp-socket.dll
+D:\cygwin64\home\user\code\stuffa-server\bin\Debug\netcoreapp2.0\csharp-socket.pdb
+D:\cygwin64\home\user\code\stuffa-server\obj\Debug\netcoreapp2.0\csharp-socket.csproj.CoreCompileInputs.cache
+D:\cygwin64\home\user\code\stuffa-server\obj\Debug\netcoreapp2.0\csharp-socket.AssemblyInfoInputs.cache
+D:\cygwin64\home\user\code\stuffa-server\obj\Debug\netcoreapp2.0\csharp-socket.AssemblyInfo.cs
+D:\cygwin64\home\user\code\stuffa-server\obj\Debug\netcoreapp2.0\csharp-socket.dll
+D:\cygwin64\home\user\code\stuffa-server\obj\Debug\netcoreapp2.0\csharp-socket.pdb
